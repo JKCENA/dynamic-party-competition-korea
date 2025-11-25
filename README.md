@@ -98,7 +98,8 @@ The study is officially documented in the working paper below:
   * ENP (Effective Number of Parties)
   * Convergence patterns
 
-A comprehensive summary is available in **Sim_Result.pdf**.
+A comprehensive summary is available in 📊 **Simulation Results (17th–22nd Elections)**  
+[Woonkyung_Sim_Result.pdf — Full Tables & Figures](./Results/Woonkyung_Sim_Result.pdf)
 
 ---
 
@@ -113,7 +114,8 @@ A comprehensive summary is available in **Sim_Result.pdf**.
 * Elections involving large exogenous shocks (e.g., COVID-19 in 2020) show lower model fit—indicating real-world deviations from purely strategic competition.
 
 For full interpretation and figures, see:
-📄 *Sim_Result.pdf* in the Results folder.
+📊 **Simulation Results (17th–22nd Elections)**  
+[Woonkyung_Sim_Result.pdf — Full Tables & Figures](./Results/Woonkyung_Sim_Result.pdf)
 
 ---
 
