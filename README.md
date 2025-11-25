@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/Analysis-Python%20%7C%20Jupyter-green.svg" alt="Python | Jupyter">
 
   <!-- Research Field -->
-  <img src="https://img.shields.io/badge/Field-Computational%20Political%20Science-brightgreen.svg" alt="Computational Social Science">
+  <img src="https://img.shields.io/badge/Field-Computational%20Social%20Science-brightgreen.svg" alt="Computational Social Science">
   <img src="https://img.shields.io/badge/Method-ABM%20(Multi--Party%20Competition)-orange.svg" alt="ABM Methods">
 
   <!-- Dataset -->
