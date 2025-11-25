@@ -36,9 +36,7 @@ contains all processing, cleaning, and restructuring steps required to prepare t
 
 ## 🤖 3. Use of AI Assistance (Transparency Notice)
 
-Parts of the data processing workflow were developed with assistance from **AI coding tools**, specifically:
-
-* **OpenAI’s ChatGPT (Vibe Coding / GPT-assisted coding workflow)**
+Parts of the data processing workflow were developed with assistance from **AI coding tools**
   – Used for code generation, debugging, and pipeline optimization
   – All logic was reviewed, finalized, and validated by the project author
 
