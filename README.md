@@ -6,6 +6,29 @@
 **Institution:** Dongguk University, Department of Political Science
 **Funding:** *This project was supported by the **Woon-Kyung Foundation Research Grant (운경재단 연구지원사업)**.*
 **Period:** March 2025 – December 2025
+<!-- Badges -->
+<p align="left">
+  <!-- Language / Platform -->
+  <img src="https://img.shields.io/badge/Code-NetLogo-blue.svg" alt="NetLogo Code">
+  <img src="https://img.shields.io/badge/Analysis-Python%20%7C%20Jupyter-green.svg" alt="Python | Jupyter">
+
+  <!-- Research Field -->
+  <img src="https://img.shields.io/badge/Field-Computational%20Political%20Science-brightgreen.svg" alt="Computational Social Science">
+  <img src="https://img.shields.io/badge/Method-ABM%20(Multi--Party%20Competition)-orange.svg" alt="ABM Methods">
+
+  <!-- Dataset -->
+  <img src="https://img.shields.io/badge/Data-Korean%20National%20Assembly%202004–2024-critical.svg" alt="Korean Election Data">
+
+  <!-- Grant -->
+  <img src="https://img.shields.io/badge/Grant-Woon--Kyung%20Foundation%20Research-blueviolet.svg" alt="Woon-Kyung Grant">
+
+  <!-- Status -->
+  <img src="https://img.shields.io/badge/Status-Working%20Paper%20%7C%20Public%20Model-yellow.svg" alt="Status">
+
+  <!-- License -->
+  <img src="https://img.shields.io/badge/License-Research%20Use%20Only-lightgrey.svg" alt="Research Use Only">
+
+</p>
 
 ---
 
