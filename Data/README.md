@@ -34,18 +34,8 @@ contains all processing, cleaning, and restructuring steps required to prepare t
 
 ---
 
-## 🤖 3. Use of AI Assistance (Transparency Notice)
 
-Parts of the data processing workflow were developed with assistance from **AI coding tools**
-  – Used for code generation, debugging, and pipeline optimization
-  – All logic was reviewed, finalized, and validated by the project author
-
-AI assistance was used **only for coding support**, not for producing or altering the underlying dataset.
-All analytical decisions and interpretations were made by the author.
-
----
-
-## 📂 4. Folder Structure
+## 📂 3. Folder Structure
 
 ```
 /Data/
@@ -59,7 +49,7 @@ Place the downloaded raw dataset into this folder **before running the notebook*
 
 ---
 
-## 📎 5. Reproducibility
+## 📎 4. Reproducibility
 
 To reproduce the processed dataset:
 
